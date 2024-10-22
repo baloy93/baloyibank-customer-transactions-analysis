@@ -40,12 +40,12 @@ The processed data from Synapse Analytics is connected to Power BI for creating 
 
 Project Structure;
 /Data: Contains the generated data files.
-/Jupyter_Notebook: Includes the Python script used to generate synthetic customer transaction data.
+/Jupyter Notebook: Includes the Python script used to generate synthetic customer transaction data.
 /PowerBI_Dashboard: Contains Power BI reports and dashboards.
-/Azure_Pipeline: Documentation on setting up and configuring Azure Data Lake, Data Factory, Databricks, and Synapse Analytics.
-How to Use This Project
-Clone the Repository: Clone this repository to your local machine.
-Data Generation: Run the Python script provided in the /Jupyter_Notebook directory to generate the customer transaction dataset.
+/Azure Pipeline: Documentation on setting up and configuring Azure Data Lake, Data Factory, Databricks, and Synapse Analytics.
+
+How to Use This Project;
+Data Generation: Run the Python script provided in the Jupyter otebook directory to generate the customer transaction dataset.
 
 Azure Setup;
 Azure Data Lake Storage: Set up an ADLS container to store raw and processed data.
